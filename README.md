@@ -1,5 +1,6 @@
 # Hello, world! 👋
 *Class of '26*
+---------------------------
 - I’m currently working on the **IDD program** at SAIT
 - I'm currently learning *Adobe Illustrator*
 - I'm currently learning how to use *GitHub*!
