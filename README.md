@@ -1,5 +1,6 @@
 # Hello, world! 👋
 *Class of '26*
+- I’m currently working on the **IDD program** at SAIT
 
 <!--
 *MyaBurns/MyaBurns* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
