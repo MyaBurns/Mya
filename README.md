@@ -9,7 +9,7 @@ My name Is **Mya**!
 - I'm currently learning *Adobe Illustrator*
 - I'm currently learning how to use *GitHub*!
 
-
+*Why Graphic Design?*
   
 
 <!--
