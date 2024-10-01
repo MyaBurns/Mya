@@ -2,6 +2,7 @@
 *Class of '26*
 ---------------------------
 My name Is **Mya**!
+*A little about me:*
 - I’m currently working on the **IDD program** at SAIT
   > My major is *Graphic Design*!
 - I'm currently learning *Adobe Illustrator*
