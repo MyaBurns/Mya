@@ -1,7 +1,7 @@
 # Hello, world! 👋
 *Class of '26*
 ---------------------------
-My name Is Mya!
+My name Is **Mya**!
 - I’m currently working on the **IDD program** at SAIT
   > My major is *Graphic Design*!
 - I'm currently learning *Adobe Illustrator*
