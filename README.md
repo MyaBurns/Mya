@@ -10,9 +10,9 @@ My name Is **Mya**!
 - I'm currently learning how to use *GitHub*!
 
 *Why Graphic Design?*
-- I am very *creative* and *artistic*
-- I am good at working *individually* and *independently*
-- I love to use *different mediums* to create, and am excited to learning how to express my art digitally!
+- I am very **creative** and **artistic**
+- I am good at working **individually** and **independently**
+- I love to use **different mediums** to create, and am excited to learning how to express my art digitally!
 
 <!--
 *MyaBurns/MyaBurns* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
