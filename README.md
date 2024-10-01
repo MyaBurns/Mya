@@ -3,7 +3,7 @@
 ---------------------------
 My name Is **Mya**!
 
-*A little about me:*
+*A Little About Me:*
 - I’m currently working on the **IDD program** at SAIT
   > My major is *Graphic Design*!
 - I'm currently learning *Adobe Illustrator*
